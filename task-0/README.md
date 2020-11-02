@@ -1,0 +1,1 @@
+This task made me learn certain new things.I use windows 7 and i did face small small problems while dual booting.After googling i finally understood my flaws and corrected it.I was so happy to see the grub screen at the end ,marking the beginning of my ubuntu journey
