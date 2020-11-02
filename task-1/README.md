@@ -1,1 +1,1 @@
-
+This is not a big task!.we just have to copy the script, paste it in the developer console and press enter/return.This task will be completed in a few minutes and i didn't face much difficulty in doing the task."It's done",had put a smile on my face too.
