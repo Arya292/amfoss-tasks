@@ -1,0 +1,14 @@
+var n =  ; //specify the no of messages to be sent
+var x = 0;
+var y = setInterval(mr_spammer,1000);
+ function mr_spammer () {
+   document.getElementsByClassName('composer_rich_textarea')[0].innerHTML = "Hi";
+$('.im_submit').trigger('mousedown'); 
+    over();
+     }                     
+ function over () {   
+ x++;
+ if(x==n){
+clearInterval(y);
+  }
+} //  this won't work if 'n' isn't specified
